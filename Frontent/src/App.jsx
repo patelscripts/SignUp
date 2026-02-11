@@ -1,6 +1,10 @@
+import SignUp from "./SignUp";
+
 function App(){
   return(
-    <div className="text-9xl">Hii</div>
+    <div>
+      <SignUp/>
+    </div>
   )
 }
 export default App;
